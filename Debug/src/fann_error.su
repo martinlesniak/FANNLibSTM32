@@ -1,0 +1,8 @@
+fann_error.c:50:29:fann_reset_errno	16	static
+fann_error.c:57:29:fann_reset_errstr	16	static
+fann_error.c:66:45:fann_get_errno	16	static
+fann_error.c:73:30:fann_get_errstr	24	static
+fann_error.c:85:29:fann_set_error_log	16	static
+fann_error.c:95:29:fann_print_error	16	static
+fann_error.c:106:6:fann_error	4268	static
+fann_error.c:222:6:fann_init_error_data	16	static

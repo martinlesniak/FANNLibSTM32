@@ -1,0 +1,7 @@
+fann_io.c:31:37:fann_create_from_file	24	static
+fann_io.c:48:28:fann_save	16	static
+fann_io.c:55:28:fann_save_to_fixed	16	static
+fann_io.c:63:5:fann_save_internal	32	static
+fann_io.c:81:5:fann_save_internal_fd	96	static
+fann_io.c:367:14:fann_create_from_fd	88	static
+fann_io.c:661:14:fann_create_from_fd_1_1	128	static
